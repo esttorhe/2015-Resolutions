@@ -1,4 +1,4 @@
-![http://i.giphy.com/mJPCLMIhq5G48.gif](http://i.giphy.com/mJPCLMIhq5G48.gif)
+![https://giphy.com/gifs/tmnt-nickelodeon-teenage-mutant-ninja-turtles-mikey-mJPCLMIhq5G48](http://i.giphy.com/mJPCLMIhq5G48.gif)
 
 # 2015 Resolutions
 My list of resolutions for 2015
