@@ -20,9 +20,9 @@ Without further ado; here's my
 - [ ] **Finish learning `Haskell`**: This is kind of a broad one; I'll settle with at least finishing [Learn You a _Haskell_ for Great Good!][haskell]
 - [ ] **Get back on the exercising train**: Kind of neglected this for the past 3 months and I was really close to my goal; putting a number I'll say **Reach 12% body fat** would be a good resolution.
 
-_Last Edited on March 10th, 2015_  • Fixed a typo (~~Haskel~~Haskell)
-
-~~_Last Edited on March 5th, 2015_ • Creation~~
+---
+- _Last Edited on March 10th, 2015_  • Fixed a typo (~~Haskel~~Haskell)
+- ~~_Last Edited on March 5th, 2015_ • Creation~~
 
 [orta]:http://orta.io
 [github]:https://github.com
