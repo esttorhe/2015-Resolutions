@@ -17,7 +17,7 @@ Without further ado; here's my
 - [ ] **Submit a talk to one conference**: Don't want to aim for a specific conference; just want to submit one talk; not even commiting to give a talk at a conference but at least submit to one
 - [ ] **Organize a [`CocoaHeads`][cocoaheads] meetup in Costa Rica**: Long overdue but about time to start moving the local community of developers
 - [ ] **Dive head first on a `Swift` project**: Been neglecting this one; kind of played with it a little bit but haven't actually commited to finishing a full real project on `Swift`
-- [ ] **Finish learning `Haskel`**: This is kind of a broad one; I'll settle with at least finishing [Learn You a _Haskell_ for Great Good!][haskell]
+- [ ] **Finish learning `Haskell`**: This is kind of a broad one; I'll settle with at least finishing [Learn You a _Haskell_ for Great Good!][haskell]
 - [ ] **Get back on the exercising train**: Kind of neglected this for the past 3 months and I was really close to my goal; putting a number I'll say **Reach 12% body fat** would be a good resolution.
 
 _Last Edited on March 5th, 2015_
