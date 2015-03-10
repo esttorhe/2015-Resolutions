@@ -1,3 +1,8 @@
+---
+• [2015 Resolutions](#2015-resolutions) • [What is this all about?](#what-is-this-all-about) • [List of resolutions](#list-of-resolutions-for-twozeroonefive) • [Changelog](#changelog) •
+
+---
+
 ![https://giphy.com/gifs/tmnt-nickelodeon-teenage-mutant-ninja-turtles-mikey-mJPCLMIhq5G48](http://i.giphy.com/mJPCLMIhq5G48.gif)
 
 # 2015 Resolutions
@@ -23,8 +28,8 @@ Without further ado; here's my
 ---
 #### Changelog:
 
-- _March 10th, 2015_    • Fixed a typo (~~Haskel~~Haskell)
-- _March 5th, 2015_   • Creation
+- _March 10th, 2015_  • Fixed a typo (~~Haskel~~Haskell) | Header
+- _March 5th, 2015_ • Creation
 
 [orta]:http://orta.io
 [github]:https://github.com
