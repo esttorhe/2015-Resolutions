@@ -19,7 +19,7 @@ Without further ado; here's my
 - [ ] **Write more on my blog**: let's quantify this and say that I will write at least :keycap_ten: blog post by the end of 2015
 - [ ] **Contribute more to OSS**: I would like to at least achieve 500 contributions by the end of the year
 - [ ] **Release at least one personal project**: This is going to be tricky; lots of projects but I should commit to at least one
-- [ ] **Submit a talk to one conference**: Don't want to aim for a specific conference; just want to submit one talk; not even commiting to give a talk at a conference but at least submit to one
+- [x] **Submit a talk to one conference**: Don't want to aim for a specific conference; just want to submit one talk; not even commiting to give a talk at a conference but at least submit to one
 - [ ] **Organize a [`CocoaHeads`][cocoaheads] meetup in Costa Rica**: Long overdue but about time to start moving the local community of developers
 - [ ] **Dive head first on a `Swift` project**: Been neglecting this one; kind of played with it a little bit but haven't actually commited to finishing a full real project on `Swift`
 - [ ] **Finish learning `Haskell`**: This is kind of a broad one; I'll settle with at least finishing [Learn You a _Haskell_ for Great Good!][haskell]
@@ -28,6 +28,7 @@ Without further ado; here's my
 ---
 #### Changelog:
 
+- _March 11th, 2015_  • Submitted a talk to [`AltConf`](http://altconf.com/)
 - _March 10th, 2015_  • Fixed a typo (~~Haskel~~Haskell) | Header
 - _March 5th, 2015_ • Creation
 
