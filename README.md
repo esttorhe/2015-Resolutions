@@ -7,7 +7,9 @@
 </p>
 ---
 
-![https://giphy.com/gifs/tmnt-nickelodeon-teenage-mutant-ninja-turtles-mikey-mJPCLMIhq5G48](http://i.giphy.com/mJPCLMIhq5G48.gif)
+<p align="center">
+<a href="https://giphy.com/gifs/tmnt-nickelodeon-teenage-mutant-ninja-turtles-mikey-mJPCLMIhq5G48"><img src="http://i.giphy.com/mJPCLMIhq5G48.gif" /></a>
+</p>
 
 # 2015 Resolutions
 My list of resolutions for 2015
