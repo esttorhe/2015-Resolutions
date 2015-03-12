@@ -1,6 +1,10 @@
 ---
-• [2015 Resolutions](#2015-resolutions) • [What is this all about?](#what-is-this-all-about) • [List of resolutions](#list-of-resolutions-for-twozeroonefive) • [Changelog](#changelog) •
-
+<p align="center">
+    &bull; <a href="#2015-resolutions">2015 Resolutions</a> &bull; 
+    <a href="#what-is-this-all-about">What is this all about?</a> &bull; 
+    <a href="#list-of-resolutions-for-twozeroonefive">List of resolutions</a> &bull; 
+    <a href="#changelog">Changelog</a> &bull;
+</p>
 ---
 
 ![https://giphy.com/gifs/tmnt-nickelodeon-teenage-mutant-ninja-turtles-mikey-mJPCLMIhq5G48](http://i.giphy.com/mJPCLMIhq5G48.gif)
@@ -28,9 +32,10 @@ Without further ado; here's my
 ---
 #### Changelog:
 
-- _March 11th, 2015_  • Submitted a talk to [`AltConf`](http://altconf.com/)
-- _March 10th, 2015_  • Fixed a typo (~~Haskel~~Haskell) | Header
-- _March 5th, 2015_ • Creation
+- _March 12th, 2015_ &bull; Centering header
+- _March 11th, 2015_  &bull; Submitted a talk to [`AltConf`](http://altconf.com/)
+- _March 10th, 2015_  &bull; Fixed a typo (~~Haskel~~Haskell) | Header
+- _March 5th, 2015_ &bull; Creation
 
 [orta]:http://orta.io
 [github]:https://github.com
