@@ -26,14 +26,15 @@ Without further ado; here's my
 - [ ] **Contribute more to OSS**: I would like to at least achieve 500 contributions by the end of the year
 - [ ] **Release at least one personal project**: This is going to be tricky; lots of projects but I should commit to at least one
 - [x] **Submit a talk to one conference**: Don't want to aim for a specific conference; just want to submit one talk; not even commiting to give a talk at a conference but at least submit to one
-- [ ] **Organize a [`CocoaHeads`][cocoaheads] meetup in Costa Rica**: Long overdue but about time to start moving the local community of developers
+- [x] **Organize a [`CocoaHeads`][cocoaheads] meetup in Costa Rica**: Long overdue but about time to start moving the local community of developers
+  - Got in contact with the [`CocoaHeads`][cocoaheads] organization and they enabled my login information; tentative date for first meetup will be 04/07 :collision:
 - [ ] **Dive head first on a `Swift` project**: Been neglecting this one; kind of played with it a little bit but haven't actually commited to finishing a full real project on `Swift`
 - [ ] **Finish learning `Haskell`**: This is kind of a broad one; I'll settle with at least finishing [Learn You a _Haskell_ for Great Good!][haskell]
 - [ ] **Get back on the exercising train**: Kind of neglected this for the past 3 months and I was really close to my goal; putting a number I'll say **Reach 12% body fat** would be a good resolution.
 
 ---
 #### Changelog:
-
+- _March 17th, 2015_ &bull; Received the «go» from [CocoaHeads][cocoaheads] to organize 1st costarrican branch of `CocoaHeads` meetup
 - _March 12th, 2015_ &bull; Centering header
 - _March 11th, 2015_  &bull; Submitted a talk to [`AltConf`](http://altconf.com/)
 - _March 10th, 2015_  &bull; Fixed a typo (~~Haskel~~Haskell) | Header
