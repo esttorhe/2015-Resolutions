@@ -30,7 +30,7 @@ Without further ado; here's my
   - Got in contact with the [`CocoaHeads`][cocoaheads] organization and they enabled my login information; tentative date for first meetup will be 04/07 :collision:
 - [ ] **Dive head first on a `Swift` project**: Been neglecting this one; kind of played with it a little bit but haven't actually commited to finishing a full real project on `Swift` __||__ _Half way there; see [`Rec`][rec]_
 - [ ] **Finish learning `Haskell`**: This is kind of a broad one; I'll settle with at least finishing [Learn You a _Haskell_ for Great Good!][haskell]
-- [ ] **Get back on the exercising train**: Kind of neglected this for the past 3 months and I was really close to my goal; putting a number I'll say **Reach 12% body fat** would be a good resolution. __||__ _Update in here; I'm at 17% and was able to put 1.5kg of muscle :muscle: _
+- [ ] **Get back on the exercising train**: Kind of neglected this for the past 3 months and I was really close to my goal; putting a number I'll say **Reach 12% body fat** would be a good resolution. __||__ _Update in here; I'm at 17% and was able to put 1.5kg of muscle :muscle:_
 
 ---
 #### Changelog:
