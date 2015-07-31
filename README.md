@@ -34,7 +34,7 @@ Without further ado; here's my
 
 ---
 #### Changelog:
-- _July 30th, 2015_ &null; Published [this post][500post] that upped my OSS contributions to 500 :tada:
+- _July 30th, 2015_ &bull; Published [this post][500post] that upped my OSS contributions to 500 :tada:
 - _July 1st, 2015_ &bull; Added [`SwiftSSH2`][swiftssh2], updated the OSS contributions, writing on my blog, finish 1 `Swift` project
 - _May 25th, 2015_ &bull; Added [`Rec`][rec], [`CocoaPods`][cocoapods] and update on `Swift` and the exercise points
 - _March 17th, 2015_ &bull; Received the «go» from [CocoaHeads][cocoaheads] to organize 1st costarrican branch of `CocoaHeads` meetup
