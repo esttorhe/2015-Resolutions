@@ -22,7 +22,7 @@ I've been slacking on ~~some~~ (ok; I admit it; **A LOT**) of my resolutions and
 Without further ado; here's my 
 
 ### List of resolutions for :two::zero::one::five::
-- [ ] **Write more on my blog**: let's quantify this and say that I will write at least :keycap_ten: blog post by the end of 2015 __||__ _Not there yet but adding more posts; added a 2 or more to it :D yay me :tada:_
+- [ ] **Write more on my blog**: let's quantify this and say that I will write at least :keycap_ten: blog post by the end of 2015 __||__ _Not there yet but adding more posts; added a 2 or more to it :D yay me :tada:_ __||__ Almost!! Did 9 :smile:
 - [x] **Contribute more to OSS**: I would like to at least achieve 500 contributions by the end of the year __||__ _Getting there; maybe not in numbers but now I'm part of the [`CocoaPods`][cocoapods] organization in Github :)_ __||__ _Almost there; currently at 412ish~ :tada:_ __||__ _DID IT!!! :tada:_
 - [x] **Release at least one personal project**: This is going to be tricky; lots of projects but I should commit to at least one - _See [`Rec`][rec]_ and [`SwiftSSH2`][swiftssh2]
 - [x] **Submit a talk to one conference**: Don't want to aim for a specific conference; just want to submit one talk; not even commiting to give a talk at a conference but at least submit to one __||__ _Since then I submitted talks to AltConf, NSSpain and dotConf_
